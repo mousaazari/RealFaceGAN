@@ -1,0 +1,1 @@
+Best Epoch 17 Best Val 0.96

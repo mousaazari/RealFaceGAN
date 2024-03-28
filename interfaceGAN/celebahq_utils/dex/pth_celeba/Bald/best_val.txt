@@ -1,0 +1,1 @@
+Best Epoch 10 Best Val 0.99

@@ -1,0 +1,9 @@
+attribute: Bags_Under_Eyes
+batch_size: 32
+workers: 4
+niter: 200
+lr: 0.001
+beta1: 0.9
+cuda: true
+seed: 0
+outf: attribute_classifiers/Bags_Under_Eyes

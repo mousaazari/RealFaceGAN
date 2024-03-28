@@ -1,0 +1,1 @@
+Best Epoch 8 Best Val 0.82

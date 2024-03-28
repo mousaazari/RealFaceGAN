@@ -1,0 +1,1 @@
+Best Epoch 11 Best Val 0.96
